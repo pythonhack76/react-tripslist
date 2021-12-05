@@ -1,0 +1,27 @@
+{
+    "trips":
+    {
+        "title": "due notti a parigi",
+        "price": "€200"
+    },
+    {
+        "title": "due notti a roma",
+        "price": "€300"
+    },
+    {
+        "title": "due notti a madrid",
+        "price": "€200"
+    },
+    {
+        "title": "due notti a mosca",
+        "price": "€200"
+    },
+    {
+        "title": "due notti a tokyo",
+        "price": "€400"
+    },
+    {
+        "title": "due notti a washington",
+        "price": "€300"
+    }
+}
